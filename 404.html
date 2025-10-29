@@ -53,7 +53,13 @@
   <div id="videopage"></div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.5.14/hls.min.js"></script>
   <script> 
-    alert(location.pathname.split("/"));
+    pathname = location.pathname.slice(1, location.pathname.length - 1).split("/")
+    if(pathname.length==2){
+      alert("channel page")
+    }else{
+      alert("videopage")
+    }
+    
   </script>
 
 
