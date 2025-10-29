@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="./smUfFbobJZTxwwXGmWUZpjBw.bin"
+#EXT-X-KEY:METHOD=AES-128,URI="https://nfc-pl.webcdn.stream.ne.jp/smUfFbobJZTxwwXGmWUZpjBw/transcoded/aes128_20240805_014401.key"
+#EXTINF:10,
+https://nfc-pl.webcdn.stream.ne.jp/smUfFbobJZTxwwXGmWUZpjBw/transcoded/20240805_014357_smUfFbobJZTxwwXGmWUZpjBw_1080p/00000/20240805_014357_smUfFbobJZTxwwXGmWUZpjBw_1080p_00001.ts
+#EXT-X-ENDLIST
+

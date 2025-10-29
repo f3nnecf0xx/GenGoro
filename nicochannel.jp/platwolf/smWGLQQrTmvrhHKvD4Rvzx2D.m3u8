@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-KEY:METHOD=AES-128,URI="./smWGLQQrTmvrhHKvD4Rvzx2D.bin"
+#EXT-X-KEY:METHOD=AES-128,URI="https://nfc-pl.webcdn.stream.ne.jp/smWGLQQrTmvrhHKvD4Rvzx2D/transcoded/aes128_20250811_110800.key"
+#EXTINF:10,
+https://nfc-pl.webcdn.stream.ne.jp/smWGLQQrTmvrhHKvD4Rvzx2D/transcoded/q5oc5z3hxjrrnwwz_pmd3v2pepoonj0kr_7hgQU9KPNbpikmVkd7NFEt_1_20250811-20-02-35_0_720p/00000/q5oc5z3hxjrrnwwz_pmd3v2pepoonj0kr_7hgQU9KPNbpikmVkd7NFEt_1_20250811-20-02-35_0_720p_00001.ts
+#EXTINF:10,
+https://nfc-pl.webcdn.stream.ne.jp/smWGLQQrTmvrhHKvD4Rvzx2D/transcoded/q5oc5z3hxjrrnwwz_pmd3v2pepoonj0kr_7hgQU9KPNbpikmVkd7NFEt_1_20250811-20-02-35_0_720p/00000/q5oc5z3hxjrrnwwz_pmd3v2pepoonj0kr_7hgQU9KPNbpikmVkd7NFEt_1_20250811-20-02-35_0_720p_00002.ts
+#EXTINF:9,
+https://nfc-pl.webcdn.stream.ne.jp/smWGLQQrTmvrhHKvD4Rvzx2D/transcoded/q5oc5z3hxjrrnwwz_pmd3v2pepoonj0kr_7hgQU9KPNbpikmVkd7NFEt_1_20250811-20-02-35_0_720p/00000/q5oc5z3hxjrrnwwz_pmd3v2pepoonj0kr_7hgQU9KPNbpikmVkd7NFEt_1_20250811-20-02-35_0_720p_00003.ts
+#EXT-X-ENDLIST
+
